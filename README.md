@@ -7,7 +7,9 @@ A collection of Fudan University PowerPoint presentation templates.
 <br>
 
 ## Sources 来源
-All PPT templates belong to their rightful owners/creators. No copyright infringement intended. 所有 PPT 模板均属于其合法所有者/创作者。本仓库仅供分享，无意侵犯版权。
+All PPT templates belong to their rightful owners/creators. No copyright infringement intended. 
+
+所有 PPT 模板均属于其合法所有者/创作者。本仓库仅供分享，无意侵犯版权。
 
 | Series系列  | Sources来源  |
 |:-:|:-:|
