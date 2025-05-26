@@ -14,22 +14,24 @@ All PPT templates belong to their rightful owners/creators. No copyright infring
 | Series系列  | Sources来源  |
 |:-:|:-:|
 | [Series 1](./Series1/) | 复旦研究生（微信公众号）  |
-| [Series 2](./Series2/)  | 人文相辉（微信公众号）  |
-|  [Series 3](./Series3/) | FD机关之家（微信公众号） |
-|  [Series 4](./Series4/) | 复旦江湾（微信公众号）  |
-| [Series 5](./Series5/)  | 复旦卿云歌（微信公众号） |
-| [Series 6](./Series6/)| 复旦任重书院（微信公众号）| 
+| [Series 2](./Series2/) | 人文相辉（微信公众号）  |
+| [Series 3](./Series3/) | FD机关之家（微信公众号） |
+| [Series 4](./Series4/) | 复旦江湾（微信公众号）  |
+| [Series 5](./Series5/) | 复旦卿云歌（微信公众号） |
+| [Series 6](./Series6/) | 复旦任重书院（微信公众号）| 
 
 <br>
 
 
 ## Preview 预览
-Current number of templates 当前模板数量 = 23
+🗄️ Current number of templates 当前模板数量 = 28
+
+📂 Backup: [Download ZIP from Google Drive](https://drive.google.com/drive/folders/1_d2SIXo_WkXGf84hdTx7J2ZktUX5-MkX?usp=drive_link)
 
 <br>
 
 
-### Series 1
+### Series 1 
 Template 1
 ![](./previews/s1-1.JPG)
 
@@ -62,7 +64,7 @@ Template 6
 <br>
 
 
-### Series 2
+### Series 2 
 Template 1
 ![](./previews/s2-1.JPG)
 
@@ -126,7 +128,30 @@ Template 5
 
 
 ### Series 4 
-Pending...
+Template 1 
+![](./previews/s4-1.JPG)
+
+<br>
+
+Template 2 
+![](./previews/s4-2.JPG)
+
+<br>
+
+Template 3
+
+![](./previews/s4-3.JPG)
+
+<br>
+
+
+Template 4 
+![](./previews/s4-4.JPG)
+
+<br>
+
+Template 5
+![](./previews/s4-5.JPG)
 
 <br>
 
