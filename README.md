@@ -19,12 +19,13 @@ All PPT templates belong to their rightful owners/creators. No copyright infring
 | [Series 4](./Series4/) | 复旦江湾（微信公众号）  |
 | [Series 5](./Series5/) | 复旦卿云歌（微信公众号） |
 | [Series 6](./Series6/) | 复旦任重书院（微信公众号）| 
-
+| [Series 7](https://drive.google.com/drive/folders/1_d2SIXo_WkXGf84hdTx7J2ZktUX5-MkX?usp=drive_link) | 团团在复旦（微信公众号）| 
+| [Series 8](https://drive.google.com/drive/folders/1_d2SIXo_WkXGf84hdTx7J2ZktUX5-MkX?usp=drive_link) | FDU-Hotpot（官网） | 
 <br>
 
 
 ## Preview 预览
-🗄️ Current number of templates 当前模板数量 = 28
+🗄️ Current number of templates 当前模板数量 = 48
 
 📂 Backup: [Download ZIP from Google Drive](https://drive.google.com/drive/folders/1_d2SIXo_WkXGf84hdTx7J2ZktUX5-MkX?usp=drive_link)
 
@@ -179,3 +180,109 @@ Template 1
 
 Template 2 
 ![](./previews/s6-2.JPG)
+
+<br>
+
+### Series 7 
+Template 1 
+![](./previews/s7-1.JPG)
+
+<br>
+
+Template 2 
+![](./previews/s7-2.JPG)
+
+<br>
+
+Template 3
+![](./previews/s7-3.JPG)
+
+<br>
+
+
+Template 4 
+![](./previews/s7-4.JPG)
+
+<br>
+
+Template 5 
+![](./previews/s7-5.JPG)
+
+<br>
+
+Template 6
+![](./previews/s7-6.JPG)
+
+<br>
+
+Template 7
+![](./previews/s7-7.JPG)
+
+<br>
+
+Template 8
+![](./previews/s7-8.JPG)
+
+<br>
+
+Template 9
+![](./previews/s7-9.JPG)
+
+<br>
+
+### Series 8
+Template 1 
+![](./previews/s8-1.JPG)
+
+<br>
+
+Template 2 
+![](./previews/s8-2.JPG)
+
+<br>
+
+Template 3
+![](./previews/s8-3.JPG)
+
+<br>
+
+
+Template 4 
+![](./previews/s8-4.JPG)
+
+<br>
+
+Template 5 
+![](./previews/s8-5.JPG)
+
+<br>
+
+Template 6
+![](./previews/s8-6.JPG)
+
+<br>
+
+Template 7
+![](./previews/s8-7.JPG)
+
+<br>
+
+Template 8
+![](./previews/s8-8.JPG)
+
+<br>
+
+Template 9
+![](./previews/s8-9.JPG)
+
+<br>
+
+Template 10
+![](./previews/s8-10.JPG)
+
+<br>
+
+Template 11
+![](./previews/s8-11.JPG)
+
+<br>
